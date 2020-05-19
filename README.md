@@ -14,4 +14,4 @@ https://github.com/mhari1/Hangman.git
 
 # Contributing
 
-Anyone can do the Pull request and for major changes, please discuss an issue first what you would like to change. It would be ideal if you make beyond any doubt to overhaul any code as suitable. Contributer Team : Mandeep Kaur Hari, Rajwinder Kaur.
+Anyone can do the Pull request and for major changes, please discuss an issue first what you would like to change. It would be ideal if you make beyond any doubt to overhaul any code as suitable.
